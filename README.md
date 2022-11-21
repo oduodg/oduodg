@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### About Me
 - 🏫 I'm currently studying at Hongik University, in South Korea. (Expected to graduate 2023 February)
 - 👩🏻‍💻 I'm double majoring in Industrial•Data Engineering and Computer Engineering.
-- 🥰 I’m interested in Cloud, Frontend development, Project management and SaaS.
+- 🥰 I’m interested in CI/CD, Frontend development, Project management and SaaS.
 - ☁️ I’m currently learning Cloud architecture(`Docker`, `K8s`, `AWS`) and `React`.
 
 <!-- ### Projects -->
