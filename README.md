@@ -25,11 +25,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-51789E?style=for-the-badge&logo=MySQL&logoColor=white"/> <br/>
   <img src="https://img.shields.io/badge/React-74D2FB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-1E3D2F.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FFD747.svg?&style=for-the-badge&logo=Linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-4A94E6.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-416CDE.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-EA9E3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/> <br/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-DF7652?style=for-the-badge&logo=Argo&logoColor=white"/> <br/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rstudio-80A9D7.svg?&style=for-the-badge&logo=Rstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-fcfcfc.svg?&style=for-the-badge&logo=Notion&logoColor=black"/>
   <img src="https://img.shields.io/badge/Figma-1D1D1D.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
