@@ -52,13 +52,13 @@ Here are some ideas to get you started:
 - 🎓 Hongik University(Seoul), Industrial•Data Engineering&Computer Engineering (2016.03~2023.02)
 - ☁️ Kakao Cloud School, Development 1th (2022.06~2022.12)
 - 🦁 홍익대학교 멋쟁이사자처럼 10기 운영진 (2022.01~2022.12)
-- 🐘 빅데이터 연합동아리 BOAZ 18기 데이터 엔지니어링 부문 (2022.01~ing)
+- 🐘 빅데이터 연합동아리 BOAZ 18기 데이터 엔지니어링 부문 (2022.01~2022.06)
 
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oduodg">
 
 ### Certificate & Prize
 
-
+- 🍫 카카오 클라우드 스쿨 개발자 양성과정, 최우수 프로젝트상 (2022.12)
 - 🍫 한국관광공사 x 카카오 2022 관광데이터 활용 공모전, 장려상 (2022.10)
 - 🤖 KT AIFB Associated(2022.02)
 - 🔤 홍익대학교 텍스트마이닝 & NLP 경진대회, 최우수상 (2022.01)
@@ -72,4 +72,3 @@ Here are some ideas to get you started:
 - 🎹 Keyboard
 - 😽 Cat
 - 📺 Animation
-
