@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- <img src="./header.png"> </img> -->
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=🧚🏻‍♀️♀️%20Eun%20Lee&fontAlign=21&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=🧚🏻‍♀️%20Eun%20Lee&fontAlign=21&fontAlignY=40&color=gradient)
 
 <p> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foduodg%2Fhit-counter&count_bg=%23D6B8D4&title_bg=%23F19FA7&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/> </p>
 
